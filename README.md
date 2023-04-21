@@ -1,4 +1,5 @@
 Authors: Damian Huerta and Nathan Wang
+
 Each Classifier is present in its own jupyter notebook. 
 
 CNN.jpynb, 
